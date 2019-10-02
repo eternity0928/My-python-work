@@ -1,0 +1,5 @@
+1 ## 數學軟體應用的Python程式
+
+3 這只是示範怎麼用 Git/GitHub
+Git bash
+READNE.md
